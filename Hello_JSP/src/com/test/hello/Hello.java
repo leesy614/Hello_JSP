@@ -2,23 +2,23 @@
 
 public class Hello {
 	public static void main(String[] args) {
-		System.out.println(&quot;local Repository create Hello_jsp&quot;);
+		System.out.println("local Repository create Hello_jsp");
 		// 012456:hotfix edit by LeePyeongjae
-		System.out.println(&quot;hotfix edit/modify&quot;);
+		System.out.println("hotfix edit/modify");
 		// 012456:end  a
 
-		//0215238:origin/master edit by LeePyeongjae
-		System.out.println(&quot;Github edit&quot;);
+		//0215238:origin/master edit by Lee
+		System.out.println("Github edit");
 		
-		//031524:local/master edit by LeePyeongjae
-		System.out.println(&quot;local edit 1234&quot;);		
+		//031524:local/master edit by Lee
+		System.out.println("local edit 1234");		
 		
 		//0412518:origin/master edit by Lee
-		System.out.println(&quot;Github edit 4567&quot;);
+		System.out.println("Github edit 4567");
 		//0412518 end
 		
-		//0278944:pull by LeePyeongJae
-		System.out.println(&quot;Github edit 4567891&quot;);
+		//0278944:pull by Lee
+		System.out.println("Github edit 4567891");
 		//0278944
 		
 		
