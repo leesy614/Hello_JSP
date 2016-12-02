@@ -10,6 +10,8 @@ public class Hello {
        
        // 01235456:origin/master edit by Lee
 	System.out.println("Github edit");
+	 // 01235456end
+	System.out.println("hotfix edit 4567");
 	}
 
 }
